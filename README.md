@@ -19,3 +19,4 @@
 | **Primary Distinction** | Master AI Voice Trainer |
 | **System Role** | Solutions Architect & Systems Designer |
 | **Frameworks** | Local-Edge Systems, Python, Enterprise Workflow Automation |
+- **Official Registry:** [YBC AI99 System Architect Portal](ใส่ลิงก์GoogleSitesตรงนี้)
